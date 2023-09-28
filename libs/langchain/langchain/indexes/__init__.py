@@ -23,6 +23,6 @@ __all__ = [
     "GraphIndexCreator",
     "index",
     "IndexingResult",
-    "SQLRecordManager",
+    # "SQLRecordManager",
     "VectorstoreIndexCreator",
 ]
